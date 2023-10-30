@@ -2,5 +2,13 @@
     "[python]": {
         "editor.defaultFormatter": "ms-python.autopep8"
     },
-    "python.formatting.provider": "none"
+    "python.formatting.provider": "none",
+    "cSpell.words": [
+        "bandpass",
+        "figsize",
+        "lfilter",
+        "linewidth",
+        "xlabel",
+        "ylabel"
+    ]
 }
