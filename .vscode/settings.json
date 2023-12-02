@@ -10,5 +10,6 @@
         "linewidth",
         "xlabel",
         "ylabel"
-    ]
+    ],
+    "editor.inlineSuggest.showToolbar": "onHover"
 }
